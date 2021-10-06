@@ -491,6 +491,7 @@ Lockdoor Resources contents:
    - `code-execution-reverse-shell-commands <ToolsResources/WEB/CHEATSHEETS/code-execution-reverse-shell-commands.txt>`_
    - `file_upload.md <ToolsResources/WEB/CHEATSHEETS/file_upload.md>`_
    - `html5_cheat_sheet <ToolsResources/WEB/CHEATSHEETS/html5_cheat_sheet.pdf>`_
+   - `css_cheat_sheet <ToolsResources/WEB/CHEATSHEETS/csscheatsheet.pdf>`_
    - `jquery_cheat_sheet_1.3.2 <ToolsResources/WEB/CHEATSHEETS/jquery_cheat_sheet_1.3.2.pdf>`_
    - `sqli <ToolsResources/WEB/CHEATSHEETS/sqli.md>`_
    - `sqli_cheatsheet <ToolsResources/WEB/CHEATSHEETS/sqli_cheatsheet.md>`_
